@@ -1,0 +1,7 @@
+/.settings/
+/target/
+/data/
+/work/cache/
+.classpath
+.project
+Graph.iml
