@@ -4,7 +4,7 @@ This repository provides the partial source code and one dataset in our paper **
 
 ## About the source code
 
-Due to the ask for confidentiality, we can’t publish the code of the whole system. 
+For reasons of commercial confidentiality, we can’t publish the code of the whole system. 
 
 We just can provide “partial source code”, which refers to the GCN layer implementation for Deeplearning4j.
 Deeplearning4j is a suite of tools for deploying and training deep learning models using the JVM.
